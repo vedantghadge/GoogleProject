@@ -1,0 +1,125 @@
+[ERROR] 2022-06-16 20:35:35.961 [main] Assign09 - this is  browser launch now
+[ERROR] 2022-06-16 20:41:07.978 [main] Assign09 - this is  browser launch now
+[INFO ] 2022-06-16 20:41:27.146 [main] Assign09 - this is id enter's
+[INFO ] 2022-06-16 20:41:31.896 [main] Assign09 - i am on home page
+[ERROR] 2022-06-17 10:43:10.301 [TestNG-test=Test-1] Assign09 - this is  browser launch now
+[ERROR] 2022-06-17 10:51:08.996 [main] Assign09 -  browser launch 
+[INFO ] 2022-06-17 10:51:24.456 [main] Assign09 -  id entered
+[INFO ] 2022-06-17 10:51:27.002 [main] Assign09 - password is entered
+[INFO ] 2022-06-17 10:51:29.265 [main] Assign09 - click the next btn
+[INFO ] 2022-06-17 10:51:44.597 [main] Assign09 - Total Recived mails count succesfully
+[ERROR] 2022-06-17 10:52:59.070 [main] Assign09 -  browser launch 
+[INFO ] 2022-06-17 10:53:15.224 [main] Assign09 -  id entered
+[INFO ] 2022-06-17 10:53:17.721 [main] Assign09 - password is entered
+[INFO ] 2022-06-17 10:53:19.992 [main] Assign09 - click the next btn
+[INFO ] 2022-06-17 10:53:34.962 [main] Assign09 - Total Recived mails count succesfully
+[ERROR] 2022-06-17 10:54:25.618 [main] Assign09 -  browser launch 
+[INFO ] 2022-06-17 10:54:48.100 [main] Assign09 -  id entered
+[INFO ] 2022-06-17 10:54:50.649 [main] Assign09 - password is entered
+[INFO ] 2022-06-17 10:54:52.791 [main] Assign09 - click the next btn
+[INFO ] 2022-06-17 10:55:07.226 [main] Assign09 - Total Recived mails count succesfully
+[ERROR] 2022-06-17 10:57:07.408 [main] Assign09 -  browser launch 
+[INFO ] 2022-06-17 10:57:24.985 [main] Assign09 -  id entered
+[INFO ] 2022-06-17 10:57:27.785 [main] Assign09 - password is entered
+[INFO ] 2022-06-17 10:57:30.076 [main] Assign09 - click the next btn
+[INFO ] 2022-06-17 10:57:50.517 [main] Assign09 - Total Recived mails count succesfully
+[ERROR] 2022-06-17 11:05:39.656 [main] Assign09 -  browser launch 
+[INFO ] 2022-06-17 11:05:59.022 [main] Assign09 -  id entered
+[INFO ] 2022-06-17 11:06:01.578 [main] Assign09 - password is entered
+[INFO ] 2022-06-17 11:06:03.717 [main] Assign09 - click the next btn
+[INFO ] 2022-06-17 11:06:29.413 [main] Assign09 - Total Recived mails count succesfully
+[INFO ] 2022-06-17 11:06:33.574 [main] Assign09 - Total Starred mails count succesfully
+[ERROR] 2022-06-17 11:09:03.474 [main] Assign09 -  browser launch 
+[INFO ] 2022-06-17 11:09:23.736 [main] Assign09 -  id entered
+[INFO ] 2022-06-17 11:09:26.440 [main] Assign09 - password is entered
+[INFO ] 2022-06-17 11:09:26.576 [main] Assign09 - click the next btn
+[INFO ] 2022-06-17 11:09:46.203 [main] Assign09 - Total Recived mails count succesfully
+[INFO ] 2022-06-17 11:09:50.966 [main] Assign09 - Total Starred mails count succesfully
+[ERROR] 2022-06-17 11:14:34.256 [main] Assign09 -  browser launch 
+[INFO ] 2022-06-17 11:14:51.197 [main] Assign09 -  id entered
+[INFO ] 2022-06-17 11:14:53.761 [main] Assign09 - password is entered
+[INFO ] 2022-06-17 11:14:53.909 [main] Assign09 - click the next btn
+[INFO ] 2022-06-17 11:15:09.210 [main] Assign09 - Total Recived mails count succesfully
+[INFO ] 2022-06-17 11:15:13.979 [main] Assign09 - Total Starred mails count succesfully
+[ERROR] 2022-06-17 11:24:07.643 [main] Assign09 -  browser launch 
+[INFO ] 2022-06-17 11:24:22.054 [main] Assign09 -  id entered
+[INFO ] 2022-06-17 11:24:24.246 [main] Assign09 - password is entered
+[INFO ] 2022-06-17 11:24:24.334 [main] Assign09 - click the next btn
+[ERROR] 2022-06-17 11:25:11.418 [main] Assign09 -  browser launch 
+[INFO ] 2022-06-17 11:25:27.732 [main] Assign09 -  id entered
+[INFO ] 2022-06-17 11:25:30.241 [main] Assign09 - password is entered
+[INFO ] 2022-06-17 11:25:30.539 [main] Assign09 - click the next btn
+[ERROR] 2022-06-17 11:26:56.318 [main] Assign09 -  browser launch 
+[INFO ] 2022-06-17 11:27:13.199 [main] Assign09 -  id entered
+[INFO ] 2022-06-17 11:27:15.729 [main] Assign09 - password is entered
+[INFO ] 2022-06-17 11:27:16.046 [main] Assign09 - click the next btn
+[INFO ] 2022-06-17 11:27:34.005 [main] Assign09 - Total Recived mails count succesfully
+[INFO ] 2022-06-17 11:27:38.758 [main] Assign09 - Total Read mails count succesfully
+[INFO ] 2022-06-17 11:27:45.156 [main] Assign09 - Total UnRead mails count succesfully
+[INFO ] 2022-06-17 11:27:45.274 [main] Assign09 - Total UnRead mails count succesfully
+[ERROR] 2022-06-17 11:28:49.712 [main] Assign09 -  browser launch 
+[INFO ] 2022-06-17 11:29:07.028 [main] Assign09 -  id entered
+[INFO ] 2022-06-17 11:29:09.682 [main] Assign09 - password is entered
+[INFO ] 2022-06-17 11:29:10.040 [main] Assign09 - click the next btn
+[INFO ] 2022-06-17 11:29:29.000 [main] Assign09 - Total Recived mails count succesfully
+[INFO ] 2022-06-17 11:29:33.677 [main] Assign09 - Total Read mails count succesfully
+[INFO ] 2022-06-17 11:29:40.195 [main] Assign09 - Total UnRead mails count succesfully
+[INFO ] 2022-06-17 11:29:40.266 [main] Assign09 - Total UnRead mails count succesfully
+[INFO ] 2022-06-17 11:29:47.000 [main] Assign09 - Total Starred mails count succesfully
+[ERROR] 2022-06-17 11:34:05.989 [main] Assign09 -  browser launch 
+[INFO ] 2022-06-17 11:34:25.122 [main] Assign09 -  id entered
+[INFO ] 2022-06-17 11:34:27.756 [main] Assign09 - password is entered
+[INFO ] 2022-06-17 11:34:28.056 [main] Assign09 - click the next btn
+[INFO ] 2022-06-17 11:34:46.568 [main] Assign09 - Total Recived mails count succesfully
+[INFO ] 2022-06-17 11:34:51.031 [main] Assign09 - Total Read mails count succesfully
+[INFO ] 2022-06-17 11:34:57.646 [main] Assign09 - Total UnRead mails count succesfully
+[INFO ] 2022-06-17 11:35:04.470 [main] Assign09 - Total Starred mails count succesfully
+[ERROR] 2022-06-17 11:36:19.251 [main] Assign09 -  browser launch 
+[INFO ] 2022-06-17 11:36:34.986 [main] Assign09 -  id entered
+[INFO ] 2022-06-17 11:36:37.491 [main] Assign09 - password is entered
+[INFO ] 2022-06-17 11:36:37.789 [main] Assign09 - click the next btn
+[INFO ] 2022-06-17 11:36:55.728 [main] Assign09 - Total Recived mails count succesfully
+[INFO ] 2022-06-17 11:37:00.629 [main] Assign09 - Total Read mails count succesfully
+[INFO ] 2022-06-17 11:37:07.264 [main] Assign09 - Total UnRead mails count succesfully
+[INFO ] 2022-06-17 11:37:14.004 [main] Assign09 - Total Starred mails count succesfully
+[ERROR] 2022-06-17 11:39:56.866 [main] Assign09 -  browser launch 
+[INFO ] 2022-06-17 11:40:15.283 [main] Assign09 -  id entered
+[INFO ] 2022-06-17 11:40:17.975 [main] Assign09 - password is entered
+[INFO ] 2022-06-17 11:40:18.266 [main] Assign09 - click the next btn
+[INFO ] 2022-06-17 11:40:35.926 [main] Assign09 - Total attachment mails count succesfully
+[INFO ] 2022-06-17 11:40:42.647 [main] Assign09 - Total Recived mails count succesfully
+[INFO ] 2022-06-17 11:40:47.247 [main] Assign09 - Total Read mails count succesfully
+[INFO ] 2022-06-17 11:40:54.103 [main] Assign09 - Total UnRead mails count succesfully
+[INFO ] 2022-06-17 11:41:01.092 [main] Assign09 - Total Starred mails count succesfully
+[ERROR] 2022-06-17 11:46:45.083 [main] Assign09 -  browser launch 
+[INFO ] 2022-06-17 11:47:02.927 [main] Assign09 -  id entered
+[INFO ] 2022-06-17 11:47:05.558 [main] Assign09 - password is entered
+[INFO ] 2022-06-17 11:47:05.849 [main] Assign09 - click the next btn
+[INFO ] 2022-06-17 11:47:23.077 [main] Assign09 - Total attachment mails count succesfully
+[INFO ] 2022-06-17 11:47:29.774 [main] Assign09 - Total Recived mails count succesfully
+[INFO ] 2022-06-17 11:47:34.350 [main] Assign09 - Total Read mails count succesfully
+[INFO ] 2022-06-17 11:47:41.260 [main] Assign09 - Total UnRead mails count succesfully
+[INFO ] 2022-06-17 11:47:48.156 [main] Assign09 - Total Starred mails count succesfully
+[INFO ] 2022-06-17 11:47:55.801 [main] Assign09 - Setting updated succesfully
+[ERROR] 2022-06-22 12:52:42.635 [TestNG-test=Test-1] Assign09 -  browser launch 
+[ERROR] 2022-06-30 22:22:40.148 [TestNG-test=Test-1] Assign09 -  browser launch 
+[INFO ] 2022-06-30 22:23:01.648 [TestNG-test=Test-1] Assign09 -  id entered
+[INFO ] 2022-06-30 22:23:04.093 [TestNG-test=Test-1] Assign09 - password is entered
+[INFO ] 2022-06-30 22:23:04.288 [TestNG-test=Test-1] Assign09 - click the next btn
+[ERROR] 2022-06-30 22:23:26.122 [TestNG-test=Test-1] Assign09 -  browser launch 
+[ERROR] 2022-07-01 17:51:02.207 [main] Assign09 -  browser launch 
+[INFO ] 2022-07-01 17:51:20.106 [main] Assign09 -  id entered
+[ERROR] 2022-07-01 17:51:47.300 [main] Assign09 -  browser launch 
+[INFO ] 2022-07-01 17:52:07.457 [main] Assign09 -  id entered
+[INFO ] 2022-07-01 17:52:10.052 [main] Assign09 - password is entered
+[INFO ] 2022-07-01 17:52:10.355 [main] Assign09 - click the next btn
+[ERROR] 2022-07-02 08:22:57.914 [main] Assign09 -  browser launch 
+[INFO ] 2022-07-02 08:23:13.583 [main] Assign09 -  id entered
+[INFO ] 2022-07-02 08:23:16.100 [main] Assign09 - password is entered
+[INFO ] 2022-07-02 08:23:16.288 [main] Assign09 - click the next btn
+[INFO ] 2022-07-02 08:23:31.611 [main] Assign09 - Total attachment mails count succesfully
+[INFO ] 2022-07-02 08:23:38.187 [main] Assign09 - Total Recived mails count succesfully
+[INFO ] 2022-07-02 08:23:42.612 [main] Assign09 - Total Read mails count succesfully
+[INFO ] 2022-07-02 08:23:49.276 [main] Assign09 - Total UnRead mails count succesfully
+[INFO ] 2022-07-02 08:23:56.131 [main] Assign09 - Total Starred mails count succesfully
+[INFO ] 2022-07-02 08:24:03.860 [main] Assign09 - Setting updated succesfully

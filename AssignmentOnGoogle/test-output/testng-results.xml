@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-12T16:14:55 IST" name="Default suite" finished-at="2022-07-12T16:15:39 IST" duration-ms="44004">
+    <groups>
+    </groups>
+    <test started-at="2022-07-12T16:14:55 IST" name="Default test" finished-at="2022-07-12T16:15:39 IST" duration-ms="44004">
+      <class name="com.edusol.pom.Assign15EmailRecived">
+        <test-method signature="Reacived_mail()[pri:0, instance:com.edusol.pom.Assign15EmailRecived@18d87d80]" started-at="2022-07-12T16:14:55 IST" name="Reacived_mail" finished-at="2022-07-12T16:15:39 IST" duration-ms="43924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reacived_mail -->
+      </class> <!-- com.edusol.pom.Assign15EmailRecived -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
